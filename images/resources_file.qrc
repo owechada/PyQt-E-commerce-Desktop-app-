@@ -1,0 +1,38 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="protein">
+    <file>protein.jpg</file>
+  </qresource>
+  <qresource prefix="baker">
+    <file>bakery.jpg</file>
+  </qresource>
+  <qresource prefix="can">
+    <file>canned.jfif</file>
+  </qresource>
+  <qresource prefix="pmeth">
+    <file>pmethod.png</file>
+  </qresource>
+  <qresource prefix="cart">
+    <file>cart.png</file>
+  </qresource>
+  <qresource prefix="frozen">
+    <file>frozen.jfif</file>
+  </qresource>
+  <qresource prefix="dia">
+    <file>dairy.jpg</file>
+  </qresource>
+  <qresource prefix="bg">
+    <file>bg.png.png</file>
+  </qresource>
+  <qresource prefix="veg">
+    <file>veg.jfif</file>
+  </qresource>
+  <qresource prefix="user_icon">
+    <file>user_icon.png</file>
+  </qresource>
+  <qresource prefix="landing">
+    <file>lnd_img.png</file>
+  </qresource>
+</RCC>

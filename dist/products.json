@@ -1,0 +1,38 @@
+[
+  {
+    "image": "./images/cart.png",
+    "title": "Apple",
+    "price": "$1.99",
+    "productid":1,
+    "description": "Fresh and juicy apples."
+  },
+  {
+    "image": "./images/bakery.jpg",
+    "title": "Banana",
+    "price": "$0.99",
+    "productid":2,
+    "description": "Ripe and delicious bananas."
+  },
+  {
+    "image": "./images/dairy.jpg",
+    "title": "Orange",
+    "price": "$1.49",
+    "productid":3,
+    "description": "Sweet and tangy oranges."
+  },  {
+    "image": "./images/dairy.jpg",
+    "title": "Orange",
+    "price": "$1.49",
+    "productid":4,
+    "description": "Sweet and tangy oranges."
+  }
+
+  ,  {
+    "image": "./images/dairy.jpg",
+    "title": "Orange",
+    "price": "$1.49",
+    "productid":5,
+    "description": "Sweet and tangy oranges."
+  }
+
+]
